@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: sotirismorf/blog-hugo
-  branch: master # Branch to update (optional; defaults to master)
+  branch: production
 
 publish_mode: editorial_workflow
 media_folder: "static/images"
